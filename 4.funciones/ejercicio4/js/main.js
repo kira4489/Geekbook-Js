@@ -1,4 +1,3 @@
-
 const fun=(selector, width, padding, border)=>{
     let size = 0;
     if (selector == true){
